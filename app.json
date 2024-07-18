@@ -1,8 +1,8 @@
 {
-  "name":"TKM-bot",
-  "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"SNAPE-MD",
+  "description":"Deploy your SNAPE MD now.Brought to you by the Snape.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
+  "logo":"https://telegra.ph/file/9a860ecce874aff14bab3.jpg",
   "repository":"https://github.com/Cod3Uchiha/TKM-bot",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TKM bot",
+      "value":"SNAPE MD ",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
+      "value":"https://telegra.ph/file/9a860ecce874aff14bab3.jpg",
       "required":false
        
      },
@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0xhZzJ6NnRnR0o3OERMVWdieFdLYVREcWJRcTBRS3Vrdkk0S0tJUVZsbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWldlYXJCb0lYV0VIWWtvODdHNGt3SVgzQkhvVjlMWjNrRmdRbSs3eGtuWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDRG1vTjNLUWNXMnRlWkNvMkJFeHVhdlpKa01YOFZBRFZJVXdkVVdPY25VPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJEOVg5OE0zeGI2SEd1Z21QbStidzRSTFZObVNRS0wyeGtwa2s3TWFQMkVnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNMOEFCL25abGExVzZBbU1LM05RajA5N0tOeGlHNHFHT3NlMm5OMVcza009In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlFrdE95YmN4U1QrYUhYd2RoQlVTazAzT21jTGwxN25rb0pRUUJtSmxJbTQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic09FRkRGTTVUR0VYT3EvVjJPa3ErYnNlR2hSZEJTWUNHc21lZ0xOWm1XUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTTdGSWFjU3pXcFV4aS9GMm01eEdFVU8xeVVBQTRjeS9KSWpGTW9xR2JIWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImNLNmkrbkJyQi9BdERpc25IRkFhTkp4Nlp5ZHhxYUpwN3AvNGxNYnJTSk9wM25ubmlkbXc3UmVNQmhYUEl3SmdSQlMybE1XVXBxWU1BTk9PelIzSGdnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTE2LCJhZHZTZWNyZXRLZXkiOiJiVHVlR2dEZGNjNTFWdURLUkR0ZzlqdFdjdTFsUnQ0SVVxeDkwL2JaQjJJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI2b1NJakJqc1NqbWJ0WDZiMXhxbHFRIiwicGhvbmVJZCI6IjkxOWQwYjY2LWY3YjYtNDI4MC1iZTA3LTA5MGE5MDI2MjY3OCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzQ1R6bE9JT1N6akhRRFpSM3l5c2hMVGpWVVk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiL0JmcEtmblJRV1J0SEh2ZTZWaVkvQmJNVU5FPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkpGVkVQTVZMIiwibWUiOnsiaWQiOiI5MjMxNDIyMTIzODM6NjFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J2ZjiDwnZ6cIPCdnpMg8J2eoCDwnZ6iIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPalhwcEFIRUtQTzViUUdHQWdnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJtZUNucTZ4bzN2WEFsQWdaWjc1VnVnNEEveXUzMEhyeGM2R2dFMHhBRVhBPSIsImFjY291bnRTaWduYXR1cmUiOiJRYnBTaXJKUWlxdERLRGNITW0wVTYvRzFkWWVXMFh6ZkxWdzZ0QnEzU29KVlB5cml4d1Ixd2E2K3VFdjVvM0QrNEZzSFhHcFpMR2Ivc0FxRWxYSmpDQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiUE1hc2dQNjNQd3FvK0crejBFZUFTUGNHQTFHbkRJeGdqcC80djA0c1BFODljN0txdTZtVHdCdS9kdXgzMGtLL1gzK2ZuOGRBM2pQa3A2N0RrYWQyakE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5MjMxNDIyMTIzODM6NjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWm5ncDZ1c2FONzF3SlFJR1dlK1Zib09BUDhydDlCNjhYT2hvQk5NUUJGdyJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMTMyOTQ1OCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFCSTYifQ==",
       "required":true
       
     },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "SNAPE"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "923142212383"
   },
     "WARN_COUNT":
   {
@@ -99,12 +99,12 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
+    "value":"1",  
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
